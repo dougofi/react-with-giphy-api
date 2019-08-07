@@ -1,6 +1,6 @@
 ## Description
 
-
+This project is a simple react app to fetch gifs using the Giphy API while a user live changes text in a text field.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
