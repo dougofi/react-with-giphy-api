@@ -15,12 +15,22 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  align-content: space-around;
 }
 .card{
   border: 1px solid blue;
   box-shadow: 2px;
+  
 }
-
+.card>img{
+  height: 100%;
+  width: 100%;
+  margin: 1%;
+}
+.input-div{
+  display: flex;
+  flex-direction: row;
+}
 input{
   border: 1px solid lightblue;
   width: 80%;
